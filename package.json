@@ -1,0 +1,28 @@
+{
+  "name": "wxwork-push",
+  "version": "0.0.1",
+  "description": "wxwork send message to corp users",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:test3207/wxwork-push.git"
+  },
+  "author": "test3207<test3207@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "devDependencies": {
+    "standard": "^14.1.0"
+  },
+  "eslintConfig": {
+    "env": {
+      "node": true,
+      "es6": true
+    },
+    "extends": "standard"
+  }
+}

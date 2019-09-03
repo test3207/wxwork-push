@@ -1,0 +1,8 @@
+# dependencies
+node_modules
+
+# temp
+temp
+
+# sensitive data
+config.js
