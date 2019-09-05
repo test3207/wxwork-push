@@ -1,14 +1,16 @@
+[简体中文](https://github.com/test3207/wxwork-push/blob/master/README.zh-CN.md)
+
 Weixin(enterprise edtion) send application message
 
 ## Preparation
 
 You can send messages to the specific employee(s) of your company by call the official apis.
 
-You MUST have the administrator permissions to get **CORPSECRET** and **CORPID**.
+You **MUST** have the administrator permissions to get **CORPSECRET** and **CORPID**.
 
-You MUST new an 3rd-party application or reuse an exsit one as the specific application to send message and get **AGGENTID**.
+You **MUST** new an 3rd-party application or reuse an exsit one as the specific application to send message and get **AGGENTID**.
 
-You MUST get the **userId(s)** of the person(s) you want to send message in work-weixin's contacts list.
+You **MUST** get the **userId(s)** of the person(s) you want to send message in work-weixin's contacts list.
 
 For more details how to get the infomation above, please checkout [Official Docs](https://work.weixin.qq.com/api/doc#90000/90135/90664)
 
